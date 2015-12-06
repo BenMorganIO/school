@@ -7,5 +7,3 @@
 | 3    | 79   |
 | 4    | 98   |
 | Exam | 79   |
-
-Practice Test Answers: http://www.ilc.org/applications/asset.php?id=1233
